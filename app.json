@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
          "BotName": {
-             "description": "Enter your desired bot\"s name (Eg:- Queen Anya)",
+             "description": "Tech Bot",
              "required": false
          },
          "Footer": {
@@ -16,7 +16,7 @@
             "required": false
          },
          "Prefix": {
-            "description": "Enter a prefix for single prefix mode (Eg:- !, -, /, etc...)",
+            "description": ".",
             "required": false
          },
          "ThemeEmoji": {
@@ -24,11 +24,11 @@
             "required": false
          },
          "Owner_Name": {
-            "description": "Enter owner's name",
+            "description": "xDelly",
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "212690494101",
             "required": true
          },
          "Insta": {
@@ -52,7 +52,7 @@
             "required": false
          },
          "Warn_Limits": {
-            "description": "Enter user's warns limit",
+            "description": "3",
             "required": false
          },
          "MongoDB": {
